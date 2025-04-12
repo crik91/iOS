@@ -608,7 +608,7 @@
 "settings.location_history.empty" = "Nessuna cronologia di localizzazione";
 "settings.location_history.title" = "Cronologia di localizzazione";
 "settings.navigation_bar.about_button.title" = "Informazioni";
-"settings.navigation_bar.title" = "impostazioni";
+"settings.navigation_bar.title" = "Impostazioni";
 "settings.reset_section.reset_alert.message" = "Le impostazioni dell'app saranno resettate, verranno disattivate le notifiche push e il dispositivo sarà rimosso dalla configurazione di Home Assistant.";
 "settings.reset_section.reset_alert.progress_message" = "Ripristino …";
 "settings.reset_section.reset_alert.title" = "Reset";
