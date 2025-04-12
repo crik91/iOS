@@ -248,6 +248,11 @@
 "gestures.3_fingers_swipe_left.title" = "3 👆 向左滑动";
 "gestures.3_fingers_swipe_right.title" = "3 👆 向右滑动";
 "gestures.3_fingers_swipe_up.title" = "3 👆 向上滑动";
+"gestures.category.app" = "App";
+"gestures.category.homeAssistant" = "Home Assistant";
+"gestures.category.other" = "Other";
+"gestures.category.page" = "Navigation";
+"gestures.category.servers" = "Servers";
 "gestures.footer.title" = "自定义在前端使用的手势。";
 "gestures.screen.body" = "当您使用 Home Assistant 主用户界面时，将应用以下手势。";
 "gestures.screen.title" = "手势";
@@ -255,11 +260,13 @@
 "gestures.swipe_left.title" = "向左滑动";
 "gestures.swipe_right.title" = "向右滑动";
 "gestures.value.option.back_page" = "返回上一页";
+"gestures.value.option.more_info.search_entities" = "Search entities";
 "gestures.value.option.next_page" = "转至下一页";
 "gestures.value.option.next_server" = "下一个服务器";
 "gestures.value.option.none" = "无";
 "gestures.value.option.open_debug" = "开启调试";
 "gestures.value.option.previous_server" = "上一个服务器";
+"gestures.value.option.search_entities" = "Search entities";
 "gestures.value.option.servers_list" = "服务器列表";
 "gestures.value.option.show_settings" = "打开应用设置";
 "gestures.value.option.show_sidebar" = "显示侧边栏";
@@ -487,7 +494,8 @@
 "onboarding.permissions.notification.title" = "通知";
 "onboarding.scanning.discovered_announcement" = "已发现：%@";
 "onboarding.scanning.manual" = "手动输入地址";
-"onboarding.scanning.manual.button.title" = "Enter address manually";
+"onboarding.scanning.manual.button.divider.title" = "或";
+"onboarding.scanning.manual.button.title" = "手动输入地址";
 "onboarding.scanning.manual_hint" = "没有找到您的服务器 ？";
 "onboarding.scanning.title" = "正在扫描服务器";
 "onboarding.servers.docs.read" = "阅读文档";

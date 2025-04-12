@@ -248,6 +248,11 @@
 "gestures.3_fingers_swipe_left.title" = "3 👆 přejedou vlevo";
 "gestures.3_fingers_swipe_right.title" = "3 👆 přejedou vpravo";
 "gestures.3_fingers_swipe_up.title" = "3 👆 přejedou nahoru";
+"gestures.category.app" = "App";
+"gestures.category.homeAssistant" = "Home Assistant";
+"gestures.category.other" = "Other";
+"gestures.category.page" = "Navigation";
+"gestures.category.servers" = "Servers";
 "gestures.footer.title" = "Přizpůsobte si gesta, která se mají používat na frontendu.";
 "gestures.screen.body" = "Níže uvedená gesta se použijí vždy, když používáte hlavní uživatelské rozhraní Home Assistanta.";
 "gestures.screen.title" = "Gesta";
@@ -255,11 +260,13 @@
 "gestures.swipe_left.title" = "Přejetí vlevo";
 "gestures.swipe_right.title" = "Přejetí vpravo";
 "gestures.value.option.back_page" = "Zpět na předchozí stránku";
+"gestures.value.option.more_info.search_entities" = "Search entities";
 "gestures.value.option.next_page" = "Přejít na další stránku";
 "gestures.value.option.next_server" = "Další server";
 "gestures.value.option.none" = "Nic";
 "gestures.value.option.open_debug" = "Otevřít ladění";
 "gestures.value.option.previous_server" = "Předchozí server";
+"gestures.value.option.search_entities" = "Search entities";
 "gestures.value.option.servers_list" = "Seznam serverů";
 "gestures.value.option.show_settings" = "Otevřít nastavení aplikace";
 "gestures.value.option.show_sidebar" = "Zobrazit postranní panel";
@@ -487,7 +494,8 @@
 "onboarding.permissions.notification.title" = "Oznámení";
 "onboarding.scanning.discovered_announcement" = "Zjištěno: %@";
 "onboarding.scanning.manual" = "Zadejte adresu ručně";
-"onboarding.scanning.manual.button.title" = "Enter address manually";
+"onboarding.scanning.manual.button.divider.title" = "nebo";
+"onboarding.scanning.manual.button.title" = "Zadat adresu ručně";
 "onboarding.scanning.manual_hint" = "Nenašli jste svůj server?";
 "onboarding.scanning.title" = "Vyhledávání serverů";
 "onboarding.servers.docs.read" = "Přečíst si dokumentaci";

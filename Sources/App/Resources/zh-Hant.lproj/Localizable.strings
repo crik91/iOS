@@ -248,6 +248,11 @@
 "gestures.3_fingers_swipe_left.title" = "3 👆 向左滑";
 "gestures.3_fingers_swipe_right.title" = "3 👆 向右滑";
 "gestures.3_fingers_swipe_up.title" = "3 👆 向上滑";
+"gestures.category.app" = "App";
+"gestures.category.homeAssistant" = "Home Assistant";
+"gestures.category.other" = "Other";
+"gestures.category.page" = "Navigation";
+"gestures.category.servers" = "Servers";
 "gestures.footer.title" = "自訂於 Frontend 中使用的手勢。";
 "gestures.screen.body" = "當使用 Home Assistant 主介面時將會套用以下手勢。";
 "gestures.screen.title" = "手勢";
@@ -255,11 +260,13 @@
 "gestures.swipe_left.title" = "向左滑";
 "gestures.swipe_right.title" = "向右滑";
 "gestures.value.option.back_page" = "回上一頁";
+"gestures.value.option.more_info.search_entities" = "Search entities";
 "gestures.value.option.next_page" = "至下一頁";
 "gestures.value.option.next_server" = "下一個伺服器";
 "gestures.value.option.none" = "無";
 "gestures.value.option.open_debug" = "開啟除錯";
 "gestures.value.option.previous_server" = "上一個伺服器";
+"gestures.value.option.search_entities" = "Search entities";
 "gestures.value.option.servers_list" = "伺服器列表";
 "gestures.value.option.show_settings" = "開啟 App 設定";
 "gestures.value.option.show_sidebar" = "顯示側邊欄";
@@ -487,7 +494,8 @@
 "onboarding.permissions.notification.title" = "通知";
 "onboarding.scanning.discovered_announcement" = "已掃描：%@";
 "onboarding.scanning.manual" = "手動輸入位址";
-"onboarding.scanning.manual.button.title" = "Enter address manually";
+"onboarding.scanning.manual.button.divider.title" = "或";
+"onboarding.scanning.manual.button.title" = "手動輸入位址";
 "onboarding.scanning.manual_hint" = "找不到伺服器？";
 "onboarding.scanning.title" = "掃描伺服器";
 "onboarding.servers.docs.read" = "閱讀文件";
